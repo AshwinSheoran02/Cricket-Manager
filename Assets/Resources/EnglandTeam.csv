@@ -1,0 +1,12 @@
+Player Role,Player Type,Player Name,Hand,JerseyNumber,Aggression,Consistency,Economy,Incisiveness
+Wicketkeeper,Wicketkeeper,Jos Buttler,Right,63,65,65,0,0
+Batsman,Top Order Batsman,Alex Hales,Right,10,65,65,10,15
+Wicketkeeper,Wicketkeeper,P.Salt,Left,61,75,40,30,40
+Batsman,Fast Allrounder,B.Stokes,Left,55,80,50,50,45
+Batsman,Middle Order Batsman,H.Brook,Right,88,80,40,10,15
+Allrounder,Spin Allrounder,M.Ali,Left,18,70,35,45,45
+Batsman,Lower Order Batsman,L.Livingstone,Right,23,85,35,30,45
+Bowler,Fast Allrounder,S.Curran,Left,58,40,50,50,50
+Bowler,Pace Bowler,C.Woakes,Right,19,30,10,50,50
+Bowler,Pace Bowler,C.Jordan,Right,34,15,15,40,60
+Bowler,Spin Bowler,A.Rashid,Right,95,10,10,65,50

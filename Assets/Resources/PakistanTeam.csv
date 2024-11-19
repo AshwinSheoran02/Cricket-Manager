@@ -1,0 +1,13 @@
+Player Role,Player Type,Player Name,Hand,JerseyNumber,Aggression,Consistency,Economy,Incisiveness
+Wicketkeeper,Top Order Batsman,M.Rizwan,Right,16,50,65,0,0
+Batsman,Top Order Batsman,B.Azam,Right,56,45,70,20,25
+Batsman,Top Order Batsman,F.Zaman,Left,39,75,55,15,25
+Batsman,Top Order Batsman,S.Masood,Left,94,40,60,15,15
+Allrounder,Spin Allrounder,I.Ahmed,Right,95,80,45,40,40
+Batsman,Middle Order Batsman,H.Ali,Right,46,40,45,10,15
+Allrounder,Spin Allrounder,M.Nawaz,Left,21,40,40,50,40
+Allrounder,Spin Allrounder,S.khan,Left,29,60,35,70,35
+Bowler,Pace Bowler,S.Afridi,Left,10,40,30,65,70
+Bowler,Pace Bowler,H.Rauf,Right,97,30,10,40,50
+Bowler,Pace Bowler,Naseem Shah,Right,71,25,20,55,60
+Bowler,Pace Bowler,S.Dahani,Right,61,10,30,55,50
